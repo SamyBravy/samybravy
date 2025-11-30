@@ -1,6 +1,3 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SamyBravy.SamyBravy" alt="Visitor Count" align="right"/>
-
-<br/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5E2CA5&center=true&width=435&lines=Hi!+I'm+Samy;42+Student;C+Programmer" alt="Typing SVG" width="435">
@@ -11,8 +8,7 @@
 </h2>
 
 <div align="center">
-  <p style="color: #5472AE;">👨🏻‍💻 Studying at <strong>42</strong></p>
-  <p style="color: #5472AE;">Focusing on C, Algorithms and Graphics</p>
+  <p style="color: #5472AE;">Focusing on C, C++, Algorithms, Mathematics and Physics</p>
 </div>
 
 <br/>
@@ -37,14 +33,6 @@
 </h2>
 
 <div align="center">
-
-  <!-- Stats GitHub globales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SamyBravy&show_icons=true&theme=shadow_blue&hide_border=true" alt="SamyBravy's GitHub stats" />
-
-  <br/>
-
-  <!-- Langages les plus utilisés -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyBravy&layout=compact&theme=shadow_blue&hide_border=true&langs_count=6" alt="Top Langs" />
 
   <br/>
 
