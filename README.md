@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Samuele+Dell'Erba;Computer+Engineering+Student;AI+Researcher;Systems+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Samuele+Dell'Erba;Computer+Engineering+Student;42+Student;Startup+Member;Student+Researcher" alt="Typing SVG" />
 </h1>
 
 <a href="https://samybravy.github.io/">
