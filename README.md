@@ -40,9 +40,9 @@
 
 ### 🔬 Research
 
-> **[Training-Free Diffusion Priors for Text-to-Image Generation via Optimization-based Visual Inversion](https://arxiv.org/abs/2511.20821)**
+> 📄 **[Training-Free Diffusion Priors for Text-to-Image Generation via Optimization-based Visual Inversion](https://arxiv.org/abs/2511.20821)**
 >
-> 📄 *S. Dell'Erba, A. D. Bagdanov (2025)*
+> *S. Dell'Erba, A. D. Bagdanov (2025)*
 >
 > Proposing a method to replace diffusion priors in text-to-image models without training, leveraging Optimization-based Visual Inversion (OVI).
 
