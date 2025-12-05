@@ -22,7 +22,7 @@
 ### 🔭 Current Status
 
 - 🔬 **Student Researcher @ MICC:** Working on training-free diffusion priors for text-to-image generation.
-- 💼 **AI Developer @ NYOUS:** Engineering AI pipelines and avatar-based video news anchors.
+- 💼 **AI Developer @ <a href="https://nyous.online/">NYOUS</a>:** Engineering AI pipelines and avatar-based video news anchors.
 - 🎓 **University of Florence:** B.Sc. in Computer Engineering (GPA: 30/30).
 - 🏫 **42 Firenze:** Advanced track in Data Science & AI.
 
