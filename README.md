@@ -1,50 +1,74 @@
+<div align="center">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5E2CA5&center=true&width=435&lines=Hi!+I'm+Samy;42+Student;C+Programmer" alt="Typing SVG" width="435">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Samuele+Dell'Erba;Computer+Engineering+Student;AI+Researcher;Systems+Programmer" alt="Typing SVG" />
 </h1>
 
-<h2 align="center">
-    <p style="color: #878F9E;">What am I currently doing?</p>
-</h2>
+<a href="https://samybravy.github.io/">
+  <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=1e293b" alt="Portfolio" />
+</a>
 
-<div align="center">
-  <p style="color: #5472AE;">Focusing on C, C++, Algorithms, Mathematics and Physics</p>
+<br/><br/>
+
+<p align="center" style="max-width: 600px;">
+  I am a <b>Computer Engineering Student</b> at the University of Florence and a specialized student at <b>École 42 Firenze</b>.<br/>
+  My focus lies in <b>Low-Level Programming</b>, <b>Distributed Systems</b>, and <b>Generative AI</b>.
+</p>
+
 </div>
-
-<br/>
 
 <hr/>
 
-<h3 align="center">
-    <p style="color: #878F9E;">My Tech Stack</p>
-</h3>
+### 🔭 Current Status
+
+- 🔬 **Student Researcher @ MICC:** Working on training-free diffusion priors for text-to-image generation.
+- 💼 **AI Developer @ NYOUS:** Engineering AI pipelines and avatar-based video news anchors.
+- 🎓 **University of Florence:** B.Sc. in Computer Engineering (GPA: 30/30).
+- 🏫 **42 Firenze:** Advanced track in Data Science & AI.
+
+<hr/>
+
+### 🛠 Tech Stack
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,bash,linux,git,vscode,vim,gdb,docker" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,cs,assembly,bash,linux,git,docker,kubernetes,pytorch,numpy,pandas,django,matlab,unity,latex&perline=9" />
     </a>
 </div>
 
-<br/>
 <hr/>
 
-<h2 align="center">
-    <p style="color: #878F9E;">Stats</p>
-</h2>
+### 📂 Selected Projects & Research
+
+| Category | Project | Description |
+| :--- | :--- | :--- |
+| **AI Research** | [**Training-Free Diffusion Priors**](https://arxiv.org/abs/2511.20821) | 📄 Technical Report on replacing diffusion priors via Optimization-based Visual Inversion (OVI). |
+| **ML / Data** | [**dslr**](https://github.com/SamyBravy/dslr) | 🐍 Logistic Regression classifier built from scratch in Python/NumPy. |
+| **System** | [**Minishell**](https://github.com/SamyBravy/Minishell) | 🐚 A fully functional Unix shell (process control, signals, fd management) in C. |
+| **Graphics** | [**miniRT**](https://github.com/SamyBravy/miniRT) | 🔦 Ray-Tracer engine written in C with Phong illumination and multi-spot lighting. |
+| **Network** | [**ft_irc**](https://github.com/SamyBravy/ft_irc) | 💬 Non-blocking IRC Server implemented in C++ (I/O multiplexing). |
+| **Web / Cloud** | [**Transcendence**](https://github.com/PASBarbari/Transcendence) | 🌐 Microservices platform with Docker, K8s, Redis, and real-time Pong game. |
+
+<hr/>
+
+### 📊 GitHub Stats
 
 <div align="center">
-
-  <br/>
-
-  <!-- Streak (Jours consécutifs de code) -->
-  <img src="https://streak-stats.demolab.com/?user=SamyBravy&theme=shadow_blue&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SamyBravy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyBravy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" height="180" alt="languages graph" />
+</div>
+<div align="center">
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=SamyBravy&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-<hr/>
-
 <div align="center">
-    <p style="color: #878F9E;">Thanks for visiting!</p>
+    <a href="https://linkedin.com/in/samuele-dell-erba">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:samuele.dellerba@edu.unifi.it">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 </div>
