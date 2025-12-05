@@ -54,13 +54,6 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SamyBravy&show_icons=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&hide_border=true" height="180" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyBravy&layout=compact&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&hide_border=true" height="180" alt="languages graph" />
-
-<br/>
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SamyBravy&theme=tokyonight&hide_border=true&v=5)
 
 </div>
