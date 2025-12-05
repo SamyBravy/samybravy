@@ -32,7 +32,7 @@
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,cs,bash,linux,git,docker,kubernetes,mysql,redis,js,pytorch,django,grafana,prometheus,matlab,unity,latex&perline=10" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,python,bash,linux,git,docker,kubernetes,mysql,redis,js,pytorch,django,grafana,prometheus,matlab,unity,latex&perline=10" />
     </a>
 </div>
 
@@ -40,9 +40,11 @@
 
 ### 🔬 Research
 
-| Paper | Description |
-| :--- | :--- |
-| [**Training-Free Diffusion Priors for Text-to-Image Generation**](https://arxiv.org/abs/2511.20821) | 📄 **Technical Report (2025)**<br>Proposes a method leveraging Optimization-based Visual Inversion (OVI) to replace diffusion priors in text-to-image models without training.<br>_Authors: S. Dell'Erba, A. D. Bagdanov._ |
+> **[Training-Free Diffusion Priors for Text-to-Image Generation via Optimization-based Visual Inversion](https://arxiv.org/abs/2511.20821)**
+>
+> 📄 *S. Dell'Erba, A. D. Bagdanov (2025)*
+>
+> Proposing a method to replace diffusion priors in text-to-image models without training, leveraging Optimization-based Visual Inversion (OVI).
 
 <br>
 
