@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Samuele+Dell'Erba;Computer+Engineering+Student;42+Student;Startup+Member;Student+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Samuele+Dell'Erba;Computer+Engineering+Student;AI+Researcher;Systems+Programmer" alt="Typing SVG" />
 </h1>
 
 <a href="https://samybravy.github.io/">
@@ -31,7 +31,7 @@
 ### 🛠 Tech Stack
 
 <div align="center">
-    <!-- Removed unsupported icons (numpy, pandas, assembly) to fix holes -->
+    <!-- Removed unsupported icons to fix holes -->
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,cs,bash,linux,git,docker,kubernetes,mysql,redis,js,pytorch,django,grafana,prometheus,matlab,unity,latex&perline=10" />
     </a>
@@ -55,12 +55,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamyBravy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyBravy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" height="180" alt="languages graph" />
-</div>
-<div align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=SamyBravy&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamyBravy&show_icons=true&theme=tokyonight&hide_border=true&v=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyBravy&layout=compact&theme=tokyonight&hide_border=true&v=5)
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SamyBravy&theme=tokyonight&hide_border=true&v=5)
+
 </div>
 
 <br/>
