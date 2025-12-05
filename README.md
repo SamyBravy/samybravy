@@ -12,7 +12,7 @@
 
 <p align="center" style="max-width: 600px;">
   I am a <b>Computer Engineering Student</b> at the University of Florence and a specialized student at <b>École 42 Firenze</b>.<br/>
-  My focus lies in <b>Low-Level Programming</b>, <b>Distributed Systems</b>, and <b>Generative AI</b>.
+  My focus lies in <b>Low-Level Programming</b>, <b>AI</b>, and <b>Computer Vision</b>.
 </p>
 
 </div>
