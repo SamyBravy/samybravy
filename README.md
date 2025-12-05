@@ -31,7 +31,6 @@
 ### 🛠 Tech Stack
 
 <div align="center">
-    <!-- Removed unsupported icons to fix holes -->
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,cs,bash,linux,git,docker,kubernetes,mysql,redis,js,pytorch,django,grafana,prometheus,matlab,unity,latex&perline=10" />
     </a>
@@ -39,11 +38,18 @@
 
 <hr/>
 
-### 📂 Selected Projects & Research
+### 🔬 Research
+
+| Paper | Description |
+| :--- | :--- |
+| [**Training-Free Diffusion Priors for Text-to-Image Generation**](https://arxiv.org/abs/2511.20821) | 📄 **Technical Report (2025)**<br>Proposes a method leveraging Optimization-based Visual Inversion (OVI) to replace diffusion priors in text-to-image models without training.<br>_Authors: S. Dell'Erba, A. D. Bagdanov._ |
+
+<br>
+
+### 📂 Selected Projects
 
 | Category | Project | Description |
 | :--- | :--- | :--- |
-| **AI Research** | [**Training-Free Diffusion Priors**](https://arxiv.org/abs/2511.20821) | 📄 Technical Report on replacing diffusion priors via Optimization-based Visual Inversion (OVI). |
 | **ML / Data** | [**dslr**](https://github.com/SamyBravy/dslr) | 🐍 Logistic Regression classifier built from scratch in Python/NumPy. |
 | **System** | [**Minishell**](https://github.com/SamyBravy/Minishell) | 🐚 A fully functional Unix shell (process control, signals, fd management) in C. |
 | **Graphics** | [**miniRT**](https://github.com/SamyBravy/miniRT) | 🔦 Ray-Tracer engine written in C with Phong illumination and multi-spot lighting. |
