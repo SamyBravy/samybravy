@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Samuele+Dell'Erba;Computer+Engineering+Student;AI+Researcher;Systems+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Samuele+Dell'Erba;Computer+Engineering+Student;42+Student;Startup+Member;Student+Researcher" alt="Typing SVG" />
 </h1>
 
 <a href="https://samybravy.github.io/">
@@ -56,8 +56,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamyBravy&show_icons=true&theme=tokyonight&hide_border=true&v=5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyBravy&layout=compact&theme=tokyonight&hide_border=true&v=5)
+<img src="https://github-readme-stats.vercel.app/api?username=SamyBravy&show_icons=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&hide_border=true" height="180" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyBravy&layout=compact&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&hide_border=true" height="180" alt="languages graph" />
 
 <br/>
 
